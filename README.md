@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# 🏮 Grave of the Fireflies (1988)
+#  Grave of the Fireflies (1988)
 
 > *"Why do fireflies have to die so soon?"* — Setsuko
 
